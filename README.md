@@ -1,5 +1,5 @@
 # FF Perfil Hub
 
-Prévia de site para consulta de dados públicos de perfis de Free Fire por UID.
+Site de consulta de perfis públicos de Free Fire.
 
-A versão inicial não se conecta a nenhuma API e não executa ações em contas de jogadores.
+Estado atual: interface corrigida e validada; integração real depende da conclusão do login no RapidAPI e da assinatura/configuração de uma API de perfil compatível.
